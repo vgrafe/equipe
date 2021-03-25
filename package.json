@@ -1,0 +1,40 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "updep": "yarn upgrade-interactive --latest",
+    "analyze": "cross-env ANALYZE=true next build",
+    "analyze:server": "cross-env BUNDLE_ANALYZE=server next build",
+    "analyze:browser": "cross-env BUNDLE_ANALYZE=browser next build"
+  },
+  "keywords": [],
+  "author": "Vincent Grafé <vincent.grafe@gmail.com> (https://github.com/vgrafe)",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/auth-oauth-app": "3.0.5",
+    "@octokit/core": "3.1.4",
+    "@stripe/react-stripe-js": "1.1.2",
+    "@stripe/stripe-js": "1.11.0",
+    "@svgr/webpack": "5.4.0",
+    "date-fns": "2.16.1",
+    "next": "10.0.0",
+    "next-auth": "3.1.0",
+    "pg": "8.4.2",
+    "postcss-preset-env": "6.7.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-query": "2.25.2",
+    "react-query-devtools": "2.6.0",
+    "stripe": "8.119.0"
+  },
+  "devDependencies": {
+    "@next/bundle-analyzer": "10.0.0",
+    "cross-env": "7.0.2",
+    "tailwindcss": "1.9.6"
+  }
+}

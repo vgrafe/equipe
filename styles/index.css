@@ -1,0 +1,27 @@
+@tailwind base;
+
+/* Write your own custom base styles here */
+
+html {
+  @apply text-gray-800 bg-gray-200 font-light;
+}
+
+input {
+  @apply border-blue-300 border rounded p-1 text-gray-900;
+}
+
+a:hover {
+  @apply text-blue-500;
+}
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Your own custom component styles */
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
