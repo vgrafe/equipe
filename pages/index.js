@@ -25,13 +25,13 @@ const Landing = () => {
 
   return (
     <div className="bg-gradient-to-r from-blue-600 to-teal-300">
-      <Head title="Teamwise - better GitHub insights for your team" />
+      <Head title="Equipe - better GitHub insights for your team" />
       <Header />
       <div className="pt-24">
         <div className="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
           <div className="flex lg:w-1/2 flex-col w-full justify-center items-start text-center md:text-left py-8">
             {/* <p className="uppercase tracking-loose w-full">
-                  Meet Teamwise labs
+                  Meet Equipe labs
                 </p> */}
             <h1 className="my-4 text-5xl font-bold leading-tight text-gray-100">
               Take control of your team's assignments
@@ -41,7 +41,7 @@ const Landing = () => {
               Use GitHub from a better perspective.
             </p>
             <p className="leading-normal text-2xl mb-8 text-gray-100">
-              Teamwise compiles your organizations activity in a dashboard to
+              Equipe compiles your organizations activity in a dashboard to
               help you assess and take action.
             </p>
 
@@ -114,7 +114,7 @@ const Landing = () => {
               <p className="mb-8">
                 Add even more meaning to your insights. Defining the effort
                 required and task priority is as simpls as adding a label and
-                setting its intent on Teamwise.
+                setting its intent on Equipe.
               </p>
             </div>
             <Switches className="w-full sm:w-1/2 p-6 mt-6" />
@@ -137,7 +137,7 @@ const Landing = () => {
             },
             {
               title: "Efficient",
-              content: `Teamwise won't make changes on your behalf and encourages you to take action in GitHub instead.`,
+              content: `Equipe won't make changes on your behalf and encourages you to take action in GitHub instead.`,
             },
             {
               title: "No lock-in",

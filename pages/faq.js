@@ -7,13 +7,13 @@ const Faq = () => (
     <h1 className="text-3xl">FAQ</h1>
     <h2 className="text-2xl">How does this work?</h2>
     <p>
-      Teamwise reads your organization activity and arranges it differently
+      Equipe reads your organization activity and arranges it differently
       before displaying it. In order to work, its only requires you to belong to{" "}
       <strong>at least one organization</strong> on GitHub.
     </p>
     <h2 className="text-2xl">Is my data secure?</h2>
     <p>
-      Yes. Teamwise works by requesting OAuth access with read-only rights. None
+      Yes. Equipe works by requesting OAuth access with read-only rights. None
       of the data queried is kept anywhere. We do not keep any personal data
       other than your email address to keep you logged in. We use secured +
       encrypted cookies, and don't use any pixel or trackers. We use{" "}

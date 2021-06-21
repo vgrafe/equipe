@@ -13,7 +13,7 @@ class MyDocument extends Document {
           <script
             async
             defer
-            data-domain="teamwise.app"
+            data-domain="equipe.app"
             src="https://plausible.io/js/plausible.js"
           ></script>
         </Head>

@@ -47,8 +47,8 @@ const Account = () => {
             </li>
             <li>
               Do you have any feature suggestion?
-              <a href="mailto:contact@teamwise.app">
-                email me at contact@teamwise.app
+              <a href="mailto:equipe@teamwise.app">
+                email me at equipe@teamwise.app
               </a>
               !
             </li>

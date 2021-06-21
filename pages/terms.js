@@ -8,7 +8,7 @@ const Terms = () => (
     <div className="space-y-3 leading-relaxed">
       <h1 className="text-2xl">Terms and conditions of use</h1>
       <p>
-        Teamwise does leverage your GitHub's organization(s) in order to show
+        Equipe does leverage your GitHub's organization(s) in order to show
         you its contents. For this reason, you need to:
         <ul className="list-disc ml-8">
           <li>
@@ -17,12 +17,12 @@ const Terms = () => (
           </li>
           <li>
             verify that your organization allows the level of access granted to
-            Teamwise before opening an account. As stated in the{" "}
+            Equipe before opening an account. As stated in the{" "}
             <Link href="/privacy">
               <a>Privacy policy</a>
             </Link>
             , none of your or your organization's activities are stored on our
-            servers, and the access requested by Teamwise is read-only.
+            servers, and the access requested by Equipe is read-only.
           </li>
         </ul>
       </p>
@@ -33,7 +33,7 @@ const Terms = () => (
       </p>
       <p>
         The main premise of our service is that we do not require write access
-        to your GitHub account, but this has to be said: Teamwise LLC can not be
+        to your GitHub account, but this has to be said: Equipe LLC can not be
         held responsible for any misuse resulting in loss or destruction of
         data.
       </p>

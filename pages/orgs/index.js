@@ -40,7 +40,7 @@ const AppIndex = () => {
           <p>You have no organization on GitHub.</p>
           <Missing className="w-64 mb-12" />
           <p>
-            Teamwise is designed to use GitHub organizations activity at least
+            Equipe is designed to use GitHub organizations activity at least
             for now. Thanks for checking us out, and think of us if you join an
             organization managed on GitHub in the future!
           </p>

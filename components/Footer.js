@@ -5,7 +5,7 @@ const Footer = () => (
     <div className="container mx-auto px-8">
       <div className="w-full flex md:flex-row pt-6">
         <div className="flex-1 mb-6 text-blue-600 no-underline hover:no-underline font-bold text-xl lg:text-2xl">
-          teamwise
+          equipe
         </div>
         <div className="space-x-4">
           <Link href="/about">
@@ -64,7 +64,7 @@ const Footer = () => (
       <div className="text-gray-800 mb-4 text-xs flex space-x-4 justify-center">
         <p>
           Copyright © {new Date().getFullYear()}{" "}
-          <a href="mailto:contact@teamwise.app">Teamwise LLC</a>.
+          <a href="mailto:equipe@teamwise.app">Teamwise LLC</a>.
         </p>
         <Link href="/terms">
           <a>Terms of Service</a>

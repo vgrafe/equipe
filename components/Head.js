@@ -1,7 +1,7 @@
 import NextHead from "next/head";
 
 const Head = ({
-  title = "Teamwise",
+  title = "Equipe",
   description = "Take control of your Organization on GitHub.",
 }) => {
   return (

@@ -3,8 +3,8 @@ import Head from "components/Head";
 
 const About = () => (
   <div className="space-y-4 mb-12">
-    <Head title="About Teamwise" />
-    <h1 className="text-3xl">About Teamwise</h1>
+    <Head title="About Equipe" />
+    <h1 className="text-3xl">About Equipe</h1>
     <p>
       Github is an amazing platform and tool for teams and organizations. But
       I've always wanted something a bit more customized to my specific needs. I

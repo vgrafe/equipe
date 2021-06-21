@@ -7,7 +7,7 @@ const Privacy = () => (
     <div className="space-y-3 leading-relaxed">
       <h1 className="text-2xl">Privacy policy</h1>
       <p>
-        Teamwise does save the information needed to read GitHub activity on
+        Equipe does save the information needed to read GitHub activity on
         your behalf through an OAuth access token, and uses an encrypted cookie
         to convey this information with the browser. This includes the email
         address used for acess to GitHub and the resulting access token, which
@@ -34,7 +34,7 @@ const Privacy = () => (
         is planeed to be implemented.
       </p>
       <p>
-        Teamwise is GDPR compliant: cookies are created and used for the only
+        Equipe is GDPR compliant: cookies are created and used for the only
         purpose of authentication.
       </p>
     </div>

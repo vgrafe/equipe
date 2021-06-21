@@ -41,7 +41,7 @@ const Header = ({ fixed = true }) => {
           <Logo className="h-10 w-10 fill-current mr-2" />
           <Link href={session ? "/orgs" : "/"}>
             <a className="no-underline hover:no-underline font-bold text-2xl lg:text-3xl hover:text-current">
-              teamwise
+              equipe
             </a>
           </Link>
         </div>
