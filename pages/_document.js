@@ -11,7 +11,6 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <script
-            async
             defer
             data-domain="equipe.app"
             src="https://plausible.io/js/plausible.js"
